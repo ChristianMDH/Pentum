@@ -1,0 +1,3 @@
+C:\Users\Sebastian Iselt\OneDrive\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\Sebastian Iselt\OneDrive\MyProject\Source\MyProject.Target.cs
+C:\Users\Sebastian Iselt\OneDrive\MyProject\Source\MyProjectEditor.Target.cs
