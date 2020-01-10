@@ -1,2 +1,0 @@
-C:\Users\seiselt\OneDrive\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
-c:\users\seiselt\onedrive\myproject\source\myproject\MyProject.h
