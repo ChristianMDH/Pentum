@@ -1,3 +1,0 @@
-C:\Users\Sebastian Iselt\OneDrive\MyProject\Intermediate\Build\Win64\UE4\Development\MyProject\Definitions.MyProject.h
-c:\users\sebastian iselt\onedrive\myproject\source\myproject\NewSceneComponent.h
-C:\Users\Sebastian Iselt\OneDrive\MyProject\Intermediate\Build\Win64\UE4\Inc\MyProject\NewSceneComponent.generated.h
