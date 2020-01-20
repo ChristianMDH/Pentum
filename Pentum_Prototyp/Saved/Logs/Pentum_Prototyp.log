@@ -743,3 +743,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-15.50.12:807][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
 [2020.01.20-15.50.12:834][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Animations/BPNew" FILE="../../../../../Pentum/Pentum/Pentum_Prototyp/Content/FirstPerson/Animations/BPNew.uasset" SILENT=true
 [2020.01.20-15.50.12:927][858]LogSavePackage: Moving '../../../../../Pentum/Pentum/Pentum_Prototyp/Saved/BPNewF5B4372C4873522487B9FBBDF65EA983.tmp' to '../../../../../Pentum/Pentum/Pentum_Prototyp/Content/FirstPerson/Animations/BPNew.uasset'
+[2020.01.20-15.56.26:106][915]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.56.26:126][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.56.26:126][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-15.56.26:126][915]PIE: New page: PIE session: FirstPersonExampleMap (Jan 20, 2020, 5:56:26 PM)
+[2020.01.20-15.56.26:127][915]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.20-15.56.26:154][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027320s)
+[2020.01.20-15.56.26:155][915]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.20-15.56.26:155][915]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2020.01.20-15.56.26:155][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028373s)
+[2020.01.20-15.56.26:196][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.01.20-15.56.26:212][915]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.20-15.56.26:230][915]LogInit: FAudioDevice initialized.
+[2020.01.20-15.56.26:239][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.56.26:239][915]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.20-15.56.26:251][915]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.01.20-16.56.26
+[2020.01.20-15.56.26:252][915]LogWorld: Bringing up level for play took: 0.011923
+[2020.01.20-15.56.26:252][915]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.01.20-15.56.26:265][915]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.369
+[2020.01.20-15.56.26:265][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.56.32:974][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.56.32:974][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.56.32:974][446]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.20-15.56.33:000][446]LogSlate: Window 'Pentum_Prototyp Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.20-15.56.33:005][446]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-15.56.33:068][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.56.33:068][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.56.33:123][446]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.01.20-15.56.33:308][447]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.01.20-15.56.45:425][805]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.01.20-15.56.45:770][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.01.20-15.56.48:585][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.20-15.56.48:607][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.56.48:607][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.20-15.56.48:607][ 60]PIE: New page: PIE session: FirstPersonExampleMap (Jan 20, 2020, 5:56:48 PM)
+[2020.01.20-15.56.48:607][ 60]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.20-15.56.48:637][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029823s)
+[2020.01.20-15.56.48:638][ 60]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.01.20-15.56.48:638][ 60]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2020.01.20-15.56.48:638][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030889s)
+[2020.01.20-15.56.48:682][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.01.20-15.56.48:698][ 60]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.20-15.56.48:718][ 60]LogInit: FAudioDevice initialized.
+[2020.01.20-15.56.48:725][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.56.48:725][ 60]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.01.20-15.56.48:738][ 60]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.01.20-16.56.48
+[2020.01.20-15.56.48:739][ 60]LogWorld: Bringing up level for play took: 0.012838
+[2020.01.20-15.56.48:739][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.01.20-15.56.48:750][ 60]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.854
+[2020.01.20-15.56.48:750][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.57.33:086][961]PIE: Warning: Invalid Simulate Options: Body (Item_Statue2_4.ItemMesh SM_Statue) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.20-15.57.33:086][961]PIE: Warning: Invalid Simulate Options: Body (Item_Statue2_4.ItemMesh SM_Statue) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.20-15.57.56:767][507]PIE: Warning: Invalid Simulate Options: Body (Item_Statue2_4.ItemMesh SM_Statue) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.20-15.57.56:767][507]PIE: Warning: Invalid Simulate Options: Body (Item_Statue2_4.ItemMesh SM_Statue) is set to simulate physics but Collision Enabled is incompatible
+[2020.01.20-15.57.59:621][678]LogBlueprintUserMessages: [ItemRegister2_2] deactivated
+[2020.01.20-15.58.01:852][811]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.58.01:852][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.20-15.58.01:852][811]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.01.20-15.58.01:874][811]LogSlate: Window 'Pentum_Prototyp Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.01.20-15.58.01:879][811]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.20-15.58.01:945][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.20-15.58.01:946][811]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.01.20-15.58.01:999][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.20-15.58.02:196][812]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.01.20-15.58.03:724][922]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-15.58.03:730][922]LogSlate: Window 'Message Log' being destroyed
+[2020.01.20-15.58.11:519][520]LogSavePackage: Moving '../../../../../Pentum/Pentum/Pentum_Prototyp/Saved/FirstPersonCharacter296CCEC84A6BC2B8FA15A09D9F91D77A.tmp' to '../../../../../Pentum/Pentum/Pentum_Prototyp/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.01.20-15.58.17:697][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.01.20-15.58.18:079][982]LogSavePackage: Moving '../../../../../Pentum/Pentum/Pentum_Prototyp/Saved/FirstPersonExampleMapDEA612D04029DC59BA5D9F849EAB892B.tmp' to '../../../../../Pentum/Pentum/Pentum_Prototyp/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.01.20-15.58.18:213][982]LogSavePackage: Moving '../../../../../Pentum/Pentum/Pentum_Prototyp/Saved/FirstPersonExampleMap-MUC-A-16770E92F555403A29AA4FF3C99FE720F4D9.tmp' to '../../../../../Pentum/Pentum/Pentum_Prototyp/Content/FirstPersonBP/Maps/FirstPersonExampleMap-MUC-A-1677_BuiltData.uasset'
