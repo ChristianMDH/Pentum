@@ -1,0 +1,1 @@
+rv -nomb -fullscreen -noBorders -fps 30.000000 Shot_1.avi Shot_2.avi
