@@ -19,7 +19,7 @@ sourceGroup000000 : RVSourceGroup (1)
 {
 	ui
 	{
-		string name = "Shot_1.avi"
+		string name = "Shot_0.avi"
 	}
 }
 
@@ -28,7 +28,35 @@ sourceGroup000000_source : RVFileSource (1)
 	cut
 	{
 		int in = 1
-		int out = 65
+		int out = 300
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "Shot_0.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000001 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "Shot_1.avi"
+	}
+}
+
+sourceGroup000001_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 1
+		int out = 335
 	}
 
 	group
@@ -43,7 +71,35 @@ sourceGroup000000_source : RVFileSource (1)
 	}
 }
 
-sourceGroup000001 : RVSourceGroup (1)
+sourceGroup000002 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "Shot_3.avi"
+	}
+}
+
+sourceGroup000002_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 1
+		int out = 180
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "Shot_3.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000003 : RVSourceGroup (1)
 {
 	ui
 	{
@@ -51,7 +107,7 @@ sourceGroup000001 : RVSourceGroup (1)
 	}
 }
 
-sourceGroup000001_source : RVFileSource (1)
+sourceGroup000003_source : RVFileSource (1)
 {
 	cut
 	{
