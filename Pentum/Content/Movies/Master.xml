@@ -13,14 +13,14 @@
 				</rate>
 				<in>1</in>
 				<out>300</out>
-				<name>ForestSequence</name>
+				<name>ForestScene</name>
 				<media>
 					<video>
 						<track>
 							<clipitem id="clipitem-1">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>TRUE</ismasterclip>
-								<name>ForestSequence</name>
+								<name>ForestScene</name>
 								<enabled>TRUE</enabled>
 								<duration>300</duration>
 								<rate>
@@ -33,8 +33,8 @@
 								<pixelaspectratio>square</pixelaspectratio>
 								<fielddominance>lower</fielddominance>
 								<file id="file-1">
-									<name>ForestSequence.mp4</name>
-									<pathurl>file://localhost/D%3a/newPentum/Pentum/Pentum/Content/Movies/ForestSequence.mp4</pathurl>
+									<name>ForestScene.mp4</name>
+									<pathurl>file://localhost/D%3a/newPentum/Pentum/Pentum/Content/Movies/ForestScene.mp4</pathurl>
 									<rate>
 										<timebase>30</timebase>
 										<ntsc>FALSE</ntsc>
@@ -88,40 +88,40 @@
 			<clip id="masterclip-2">
 				<masterclipid>masterclip-2</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
-				<duration>240</duration>
+				<duration>300</duration>
 				<rate>
 					<timebase>30</timebase>
 					<ntsc>FALSE</ntsc>
 				</rate>
 				<in>1</in>
-				<out>240</out>
-				<name>Shot_2</name>
+				<out>300</out>
+				<name>ForestScene1</name>
 				<media>
 					<video>
 						<track>
 							<clipitem id="clipitem-2">
 								<masterclipid>masterclip-2</masterclipid>
 								<ismasterclip>TRUE</ismasterclip>
-								<name>Shot_2</name>
+								<name>ForestScene1</name>
 								<enabled>TRUE</enabled>
-								<duration>240</duration>
+								<duration>300</duration>
 								<rate>
 									<timebase>30</timebase>
 									<ntsc>FALSE</ntsc>
 								</rate>
 								<in>1</in>
-								<out>240</out>
+								<out>300</out>
 								<anamorphic>FALSE</anamorphic>
 								<pixelaspectratio>square</pixelaspectratio>
 								<fielddominance>lower</fielddominance>
 								<file id="file-2">
-									<name>Shot_2.mp4</name>
-									<pathurl>file://localhost/D%3a/newPentum/Pentum/Pentum/Content/Movies/Shot_2.mp4</pathurl>
+									<name>ForestScene1.mp4</name>
+									<pathurl>file://localhost/D%3a/newPentum/Pentum/Pentum/Content/Movies/ForestScene1.mp4</pathurl>
 									<rate>
 										<timebase>30</timebase>
 										<ntsc>FALSE</ntsc>
 									</rate>
-									<duration>240</duration>
+									<duration>300</duration>
 									<timecode>
 										<rate>
 											<timebase>30</timebase>
@@ -168,7 +168,7 @@
 				</colorinfo>
 			</clip>
 			<sequence id="sequence-1">
-				<duration>541</duration>
+				<duration>600</duration>
 				<rate>
 					<timebase>30</timebase>
 					<ntsc>FALSE</ntsc>
@@ -193,7 +193,7 @@
 							<clipitem id="clipitem-3">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
-								<name>ForestSequence</name>
+								<name>ForestScene</name>
 								<enabled>TRUE</enabled>
 								<duration>300</duration>
 								<rate>
@@ -209,17 +209,17 @@
 							<clipitem id="clipitem-4">
 								<masterclipid>masterclip-2</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
-								<name>Shot_2</name>
+								<name>ForestScene1</name>
 								<enabled>TRUE</enabled>
-								<duration>240</duration>
+								<duration>300</duration>
 								<rate>
 									<timebase>30</timebase>
 									<ntsc>FALSE</ntsc>
 								</rate>
 								<start>300</start>
-								<end>540</end>
+								<end>600</end>
 								<in>1</in>
-								<out>240</out>
+								<out>300</out>
 								<file id="file-2" />
 							</clipitem>
 							<enabled>TRUE</enabled>
